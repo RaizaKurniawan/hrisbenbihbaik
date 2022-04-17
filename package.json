@@ -1,0 +1,23 @@
+{
+  "name": "hrisbenbihbaik",
+  "version": "1.0.0",
+  "description": "HR Benihbaik",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaizaKurniawan/hrisbenbihbaik.git"
+  },
+  "author": "raizakurniawan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaizaKurniawan/hrisbenbihbaik/issues"
+  },
+  "homepage": "https://github.com/RaizaKurniawan/hrisbenbihbaik#readme",
+  "devDependencies": {
+    "cypress": "^9.5.4"
+  }
+}
