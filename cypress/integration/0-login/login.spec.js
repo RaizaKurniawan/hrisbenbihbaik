@@ -1,3 +1,8 @@
+/// ############ Login Page Testing
+/*
+    Author: Raiza Kurniawan
+    JobRole: QA Benihbaik
+*/
 import LoginPage from "./login"
 
 describe ("Run Test Login", function() {
@@ -13,4 +18,3 @@ describe ("Run Test Login", function() {
     })
 })
 
-// This is Login Testing And Testing
